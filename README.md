@@ -10,7 +10,7 @@
 
 ## Other Requirements:-
 1. Any chromium based browser i.e. Chrome 
-2. Metamask browser extension
+2. Metamask browser extension.
     
 ## setup process 
 
